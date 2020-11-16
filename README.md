@@ -1,2 +1,2 @@
 # Template-One
-Template using html &amp; css
+Practise on html & css
